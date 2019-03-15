@@ -1,4 +1,4 @@
-# Different Bisect implementations
+# Left, Right, and Mid Bisect implementations in ruby
 
 ## Usage
 ```rb
